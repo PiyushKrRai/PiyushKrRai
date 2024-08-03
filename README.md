@@ -2,7 +2,7 @@
 <h3 align="center">A Student and an aspiring Engineer</h3>
 <h3 align="center"> <a href="https://piyushkrrai.web.app" target="blank"> Visit My Website here 🌐 </a> </h3> 
 
-[![rice.png](https://github.com/PiyushKrRai/PiyushKrRai/blob/main/intro1.png)](https://piyushkrrai.web.app)
+[![rice.png](https://github.com/PiyushKrRai/PiyushKrRai/blob/main/banner.jpeg)](https://piyushkrrai.web.app)
 
 <h3 align="left">About me:</h3>
 
