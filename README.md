@@ -1,27 +1,47 @@
-<h1 align="center">Hello There !! I'm Piyush Kumar Rai</h1>
-<h3 align="center">A Student and an aspiring Engineer</h3>
-<h3 align="center"> <a href="https://piyushkrrai.web.app" target="blank"> Visit My Website here 🌐 </a> </h3> 
+<h1 align="center">Hello There !! <br> I'm Piyush Kumar Rai</h1>
 
-[![rice.png](https://github.com/PiyushKrRai/PiyushKrRai/blob/main/banner.jpeg)](https://piyushkrrai.web.app)
+[![rice.png](https://media.licdn.com/dms/image/v2/D5616AQG63HqwySZ7ZQ/profile-displaybackgroundimage-shrink_350_1400/B56ZxVc.aMJsAg-/0/1770960187974?e=1772668800&v=beta&t=eq6x4xRWuym_6jVODdj-KIliOef6yM2N__ctgUo_USw)](https://piyushkrrai.web.app)
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **Python, Javascript and Kotlin**
+- I work on Blockchain | DevOps | Linux | Open Source 
 
-- 👨‍💻 Visit my Website at [piyushkrrai.web.app](piyushkrrai.web.app)
+- I am Hackathon Organiser (x7) | Hackathon Mentor (x3)
 
-- 📫 You can also email me at **raip7172@gmail.com**
+- I have organised 50+ Tech Events across 10+ Cities in India
 
-- ⚡ Fun fact **I use Arch btw** <a href="" target="blank"><img align="center" src="https://github.com/PiyushKrRai/PiyushKrRai/blob/main/arch.svg" alt="" height="30" width="40" /></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="justify">
-<a href="https://piyushkrrai.web.app" target="blank"><img align="center" src="https://github.com/PiyushKrRai/PiyushKrRai/blob/main/web.png" alt="piyushkrrai" height="40" width="40" /></a>
-<a href="https://twitter.com/piyushkrrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyushkrrai" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/piyush-kumar-rai-a5901b203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-kumar-rai-a5901b203" height="30" width="40" /></a>  
-<a href="https://instagram.com/piyushkrrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushkrrai" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/piyushkrrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="piyushkrrai" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools I use:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+<h3> Follow me on: </h3>
+  <a href="https://twitter.com/piyushkrrai">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/piyushkrrai">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/piyushkrrai">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/piyushkrrai">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://piyushkrrai.hashnode.dev/">
+    <img src="https://img.shields.io/badge/HASHNODE-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+
+  <a href="https://piyushkrrai.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+
+  <a href="https://gitlab.com/PiyushKrRai/">
+    <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+<br><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=PiyushKrRai" alt="visitor badge"/>
+</div>
+
