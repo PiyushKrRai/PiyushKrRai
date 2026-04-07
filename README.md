@@ -4,7 +4,7 @@
 
 - I work on Blockchain | DevOps | Linux | Open Source 
 
-- I am Hackathon Organiser (x7) | Hackathon Mentor (x3)
+- I am Hackathon Organiser (x7) | Hackathon Mentor (x6)
 
 - I have organised 50+ Tech Events across 10+ Cities in India
 
