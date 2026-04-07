@@ -1,7 +1,5 @@
 <h1 align="center">Hello There !! <br> I'm Piyush Kumar Rai</h1>
 
-[![rice.png](https://media.licdn.com/dms/image/v2/D5616AQG63HqwySZ7ZQ/profile-displaybackgroundimage-shrink_350_1400/B56ZxVc.aMJsAg-/0/1770960187974?e=1772668800&v=beta&t=eq6x4xRWuym_6jVODdj-KIliOef6yM2N__ctgUo_USw)](https://piyushkrrai.web.app)
-
 <h3 align="left">About me:</h3>
 
 - I work on Blockchain | DevOps | Linux | Open Source 
